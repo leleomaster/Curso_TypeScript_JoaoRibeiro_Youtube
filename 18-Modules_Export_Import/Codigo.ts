@@ -20,3 +20,10 @@ class Humano {
 //isso 
 export { Pessoa, Humano, enumSexo };
 // ou import * as code "./Codigo" no arquivo ts que você quer usar essas estruturas
+
+
+
+
+
+
+

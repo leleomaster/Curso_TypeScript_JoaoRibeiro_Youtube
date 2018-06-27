@@ -12,7 +12,6 @@ function apresentar(valor: string): string {
     return valor;
 }
 
-
 // É genérico
 function Funcao_Generica<T>(valor: T): T {
     return valor;
